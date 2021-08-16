@@ -6,4 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezz-dev&show_icons=true&theme=gotham)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rezz-dev&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 
